@@ -1,0 +1,4 @@
+#  ignore any file whose name ends in .csv
+*.csv
+# ignore everything in the results directory
+results/
