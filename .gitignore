@@ -3,3 +3,6 @@
 # ignore everything in the results directory
 results/
 .Rproj.user
+.Rhistory
+.RData
+*.Rproj
